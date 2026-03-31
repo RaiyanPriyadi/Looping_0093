@@ -16,7 +16,7 @@ int main(){
     srand(time(0));
     
     //Perulangan dengan WHILE
-    cout<<"PERULANGANN WHI"<<endl;
+    cout<<"PERULANGANN WHILE"<<endl;
     x = 1 + rand()%10;
     
     while(x<=5){

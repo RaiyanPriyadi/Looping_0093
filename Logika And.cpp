@@ -13,7 +13,7 @@ int main(){
     rerata = (nilB+nilM)/2;
     
     if ((rerata >= 60) && (nilM >= 70))
-        status = "Lulu";
+        status = "Lulus";
     else
         status = "Tidak lulus";
         

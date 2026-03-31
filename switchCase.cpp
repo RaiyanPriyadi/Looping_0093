@@ -21,7 +21,7 @@ void input() {
 void pilihanJurusan() {
     switch (kodeJurusan) {
         case 1:
-            namaJurusan = "Teknologi Informasi";
+            namaJurusan = "Teknologi Informas";
             statusKuota = "Tersedia (15 Kursi)";
             break;
         case 2:
